@@ -1,0 +1,31 @@
+li {
+    padding: 5px;
+    margin: 5px;
+    background: aliceblue;
+  }
+  
+  .label {
+    font-weight: bold;
+  }
+  
+  .create-update-form {
+    padding: 5px;
+    margin: 5px;
+    background: red;
+  }
+  
+  .form-group {
+    margin-bottom: 5px;
+  }
+  
+  #devoured {
+    float: left;
+  }
+  
+  #not-devoured {
+    float: left;
+  }
+  
+  .clear {
+    clear: left;
+  }
